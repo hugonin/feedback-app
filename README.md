@@ -17,7 +17,7 @@ This project is a part of my training to React
 ## Technologies
 * React 17.0.2
 
-##Setup
+## Setup
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
