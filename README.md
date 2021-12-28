@@ -14,7 +14,7 @@
 ## General info
 This project is a part of my training to React
 
-##Technologies
+## Technologies
 * React 17.0.2
 
 ##Setup
