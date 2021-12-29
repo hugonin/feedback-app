@@ -1,5 +1,5 @@
 # Feedback App
-> Feedback application for products or services built with React
+> This is a React app to leave feedback for a product or service
 
 ## Table of contents
 * [General info](#general-info)
@@ -15,7 +15,9 @@
 This project is a part of my training to React
 
 ## Technologies
-* React 17.0.2
+* react 17.0.2
+* react-router-dom 6.2.1
+* framer-motion 4.1.17
 
 ## Setup
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

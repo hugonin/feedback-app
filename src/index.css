@@ -209,6 +209,13 @@ input:focus {
   margin: 10px 0;
 }
 
+footer {
+  position: relative;
+  height: 70px;
+  width: 100%;
+}
+
+
 @media (max-width: 600px) {
   .rating li {
     margin: 10px 3px;
@@ -225,4 +232,5 @@ input:focus {
   .input-group input {
     width: 80%;
   }
+
 }
