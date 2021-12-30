@@ -18,13 +18,18 @@ This project is a part of my training to React
 * react 17.0.2
 * react-router-dom 6.2.1
 * framer-motion 4.1.17
+* json-server 0.17.0
+* concurrently 6.5.1
 
 ## Setup
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm run dev`
+
+Runs the json server  
+Open [http://localhost:5000/feedback](http://localhost:5000/feedback) to view the json data
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
